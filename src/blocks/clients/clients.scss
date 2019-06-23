@@ -1,0 +1,16 @@
+.clients {
+  flex-basis: 1rem;
+  margin: auto;
+  width: 100%;
+  display: flex;
+}
+.clients__photo {
+  background-image: url(/img/clients1.jpg);
+  height: 496px;
+  width: 950px;
+}
+.clients-info {
+  background-image: url(/img/clients2.jpg);
+  height: 496px;
+  width: 950px;
+}

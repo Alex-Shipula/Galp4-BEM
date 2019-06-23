@@ -1,0 +1,21 @@
+.footer{
+    flex-basis: 1rem;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.footer-top{
+    background-image: url(/img/footer_top.jpg);
+    height: 246px;
+    width: 100%;
+    display: flex;
+    
+}
+.footer-bottom{
+    background-image: url(/img/footer_bottom.jpg);
+    height: 92px;
+    width: 100%;
+    display: block;
+    flex-direction: column;
+}

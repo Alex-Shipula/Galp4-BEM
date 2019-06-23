@@ -1,0 +1,57 @@
+.works-work1__work-1 {
+  background-image: url(/img/work1.jpg);
+  height: 346px;
+  width: 475px;
+}
+.works-work1__work-2 {
+  background-image: url(/img/work2.jpg);
+  height: 346px;
+  width: 475px;
+}
+.works-work1__work-3 {
+  background-image: url(/img/work3.jpg);
+  height: 346px;
+  width: 475px;
+}
+.works-work1__work-4 {
+  background-image: url(/img/work4.jpg);
+  height: 346px;
+  width: 475px;
+}
+.works-work2__work-5 {
+  background-image: url(/img/work5.jpg);
+  height: 346px;
+  width: 475px;
+}
+.works-work2__work-6 {
+  background-image: url(/img/work6.jpg);
+  height: 346px;
+  width: 475px;
+}
+.works-work2__work-7 {
+  background-image: url(/img/work7.jpg);
+  height: 346px;
+  width: 475px;
+}
+.works-work2__work-8 {
+  background-image: url(/img/work8.jpg);
+  height: 346px;
+  width: 475px;
+}
+.works {
+  flex-basis: 1rem;
+  margin: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.works-work1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.works-work2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,68 @@
+.masthead {
+  background-image: url(/img/masthead.jpg);
+  height: 750px;
+  width: 100%;
+  display: block;
+  flex-direction: column;
+}
+.masthead-header__logo {
+  background-image: url(/img/activebox.png);
+  height: 22px;
+  width: 188px;
+}
+
+.container {
+  height: 750px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.masthead__header {
+  width: 100%;
+  display: flex;
+  height: 55px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.masthead__header a {
+  font-weight: 700;
+  color: rgb(163, 163, 160);
+}
+
+.masthead__header ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.masthead__header li {
+  height: 55px;
+}
+.masthead__header div a {
+  display: block;
+  line-height: 55px;
+  padding: 0 15px;
+}
+.masthead__your {
+  background-image: url(/img/your.png);
+  height: 123px;
+  width: 857px;
+}
+.masthead__lorem {
+  background-image: url(/img/lorem.png);
+  height: 52px;
+  width: 907px;
+}
+.masthead__button {
+  color: white;
+  background-color: red;
+  padding: 0.5rem 1rem;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
